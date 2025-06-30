@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mg1.svg</file>
+        <file>mg2.svg</file>
+        <file>mg3.svg</file>
+        <file>mg4.svg</file>
+        <file>vip.svg</file>
+        <file>library.jpg</file>
+        <file>ll.png</file>
+    </qresource>
+</RCC>
